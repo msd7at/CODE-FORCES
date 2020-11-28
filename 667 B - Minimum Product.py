@@ -1,5 +1,6 @@
 t=int(input())
 def pro(a,b,x,y,n):
+    
     d1=a-x
     d2=b-y
     c1=min(n,d1)
