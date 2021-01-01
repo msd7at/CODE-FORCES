@@ -1,6 +1,6 @@
 t=int(input())
-for q in range(t):
-    n=int(input())
+for q in range(t) :
+    n=  int(input())
     s=input()
     az=[]
     ao=[]
